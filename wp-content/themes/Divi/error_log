@@ -1,0 +1,4 @@
+[28-May-2020 12:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/princeoduro2017/public_html/poqagroup.com/wp-content/themes/Divi/functions.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/princeoduro2017/public_html/poqagroup.com/wp-content/themes/Divi/functions.php on line 93
