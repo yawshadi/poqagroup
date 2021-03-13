@@ -24,10 +24,10 @@
 define('DB_NAME', "poqagroup");
 
 /** MySQL database username */
-define('DB_USER', "poqa");
+define('DB_USER', "namu");
 
 /** MySQL database password */
-define('DB_PASSWORD', "poqa@2019");
+define('DB_PASSWORD', "Namu@2020");
 
 /** MySQL hostname */
 define('DB_HOST', "localhost");
